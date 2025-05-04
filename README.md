@@ -47,6 +47,9 @@ This project involves merging and analyzing multiple datasets (experiment data a
 - About 60% of users engaged only in browsing activities without advancing to purchasing, suggesting opportunities for engagement strategies.
 - The experiment group exposed to the new UI had a slightly higher completion rate compared to the control group.
 
+## Presentation Link
+https://www.canva.com/design/DAGmVeRB5mw/dfhyNO-ykZCkVnxICjJc4A/edit?utm_content=DAGmVeRB5mw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 
 ## Credits
